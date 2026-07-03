@@ -188,4 +188,4 @@ Multiple classification models were evaluated, and Logistic Regression demonstra
 
 Kajal More
 
-Data Analyst | Machine Learning Enthusiast
+Data Analyst | Machine Learning
